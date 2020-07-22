@@ -1,7 +1,5 @@
-package TestsProjects;
 
 import java.util.ArrayList;
-
 // Изменяет порядок колекции в противоположную сторону
 public class ReverseCollection {
     public static void main(String[] args) {

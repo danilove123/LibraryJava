@@ -1,4 +1,3 @@
-package TestsProjects;
 
 import java.util.ArrayList;
 // Удаляет дубликаты

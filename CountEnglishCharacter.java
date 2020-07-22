@@ -1,10 +1,8 @@
-package Interfaces;
 
 import java.util.ArrayList;
 //Считает сколько Английских букв в слове
 public class CountEnglishCharacter {
     public static void main(String[] args) {
-
     }
     public static int Count(String name){
         char[] charsAr=name.toCharArray();
